@@ -6,34 +6,54 @@
   "rangking": 1,
   "today": 73,
   "this_week": 63,
-  "this_month": 72
+  "this_month": 72,
+  "model":[
+    "model_name":["ground","calm","wash","park","common","accurate","rain","pain","arrow","voice"],
+    "populasi":[78,56,36,81,82,79,63,14,28,19]
+  ]
 }, {
   "id": 2,
   "kategory": "Beef - Shank",
   "rangking": 2,
   "today": 85,
   "this_week": 66,
-  "this_month": 42
+  "this_month": 42,
+  "model":[
+    "model_name":["her","tea","design","pot","solution","pipe","ought","walk","physical","broken"],
+    "populasi":[59,33,44,78,44,87,34,11,12,68]
+  ]
 }, {
   "id": 3,
   "kategory": "Rappini - Andy Boy",
   "rangking": 3,
   "today": 35,
   "this_week": 27,
-  "this_month": 77
+  "this_month": 77,
+   "model":[
+    "model_name":["topic","force","suggest","nest","longer","dark","amount","arm","until","mouse"],
+    "populasi":[35,70,87,74,82,29,62,15,82,84]
+  ]
 }, {
   "id": 4,
   "kategory": "Tea - Lemon Green Tea",
   "rangking": 4,
   "today": 74,
   "this_week": 70,
-  "this_month": 60
+  "this_month": 60,
+  "model":[
+    "model_name":["nodded","straw","fifty","history","community","poet","kill","writer","wide","small"],
+    "populasi":[33,17,73,86,18,44,22,18,88,81]
+  ]
 }, {
   "id": 5,
   "kategory": "Saskatoon Berries - Frozen",
   "rangking": 5,
   "today": 14,
   "this_week": 91,
-  "this_month": 12
+  "this_month": 12,
+  "model":[
+    "model_name":["guess","wish","clearly","able","thou","was","throat","depth","however","rather"],
+    "populasi":[56,23,98,20,27,61,88,17,63,47]
+  ]
 }]
 }
