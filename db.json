@@ -7,10 +7,8 @@
   "today": 73,
   "this_week": 63,
   "this_month": 72,
-  "model":[
-    "model_name":["ground","calm","wash","park","common","accurate","rain","pain","arrow","voice"],
-    "populasi":[78,56,36,81,82,79,63,14,28,19]
-  ]
+   "model_name":["ground","calm","wash","park","common","accurate","rain","pain","arrow","voice"],
+   "populasi":[78,56,36,81,82,79,63,14,28,19]
 }, {
   "id": 2,
   "kategory": "Beef - Shank",
