@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "kategory": "Salt And Pepper Mix - White",
+  "rangking": 1,
+  "today": 73,
+  "this_week": 63,
+  "this_month": 72
+}, {
+  "id": 2,
+  "kategory": "Beef - Shank",
+  "rangking": 2,
+  "today": 85,
+  "this_week": 66,
+  "this_month": 42
+}, {
+  "id": 3,
+  "kategory": "Rappini - Andy Boy",
+  "rangking": 3,
+  "today": 35,
+  "this_week": 27,
+  "this_month": 77
+}, {
+  "id": 4,
+  "kategory": "Tea - Lemon Green Tea",
+  "rangking": 4,
+  "today": 74,
+  "this_week": 70,
+  "this_month": 60
+}, {
+  "id": 5,
+  "kategory": "Saskatoon Berries - Frozen",
+  "rangking": 5,
+  "today": 14,
+  "this_week": 91,
+  "this_month": 12
+}]
