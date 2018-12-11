@@ -1,4 +1,6 @@
-[{
+{
+  "kategory":[
+  {
   "id": 1,
   "kategory": "Salt And Pepper Mix - White",
   "rangking": 1,
@@ -34,3 +36,4 @@
   "this_week": 91,
   "this_month": 12
 }]
+}
